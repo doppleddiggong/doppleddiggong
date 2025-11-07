@@ -18,9 +18,9 @@
 ## 대표 작업
 | 미리보기 | 프로젝트 | 설명 | 링크 |
 |----------|-----------|-------|-------|
-| <img src="https://raw.githubusercontent.com/doppleddiggong/doppleddiggong/main/Preview/preview_yisan.png" height="300"/> | **AI·언리얼 음성 인터랙션** | STT → GPT → TTS 실시간 파이프라인 | [LINK](https://github.com/doppleddiggong/YiSan) |
-| <img src="https://raw.githubusercontent.com/doppleddiggong/doppleddiggong/main/Preview/preview_coffeetoolbar.png" height="300"/> | **CoffeeToolbar** | UE 에디터 생산성 툴링 | [LINK](https://github.com/doppleddiggong/CoffeeToolbar) |
-| <img src="https://raw.githubusercontent.com/doppleddiggong/doppleddiggong/main/Preview/preview_sheet2so.png" height="300"/> | **Sheet2SO** | Google Sheet → ScriptableObject 자동화 | [LINK](https://github.com/doppleddiggong/Sheet2SO) |
+| <img src="https://raw.githubusercontent.com/doppleddiggong/doppleddiggong/main/Preview/preview_yisan.png" height="128"/> | **AI·언리얼 음성 인터랙션** | STT → GPT → TTS 실시간 파이프라인 | [LINK](https://github.com/doppleddiggong/YiSan) |
+| <img src="https://raw.githubusercontent.com/doppleddiggong/doppleddiggong/main/Preview/preview_coffeetoolbar.png" height="128"/> | **CoffeeToolbar** | UE 에디터 생산성 툴링 | [LINK](https://github.com/doppleddiggong/CoffeeToolbar) |
+| <img src="https://raw.githubusercontent.com/doppleddiggong/doppleddiggong/main/Preview/preview_sheet2so.png" height="128"/> | **Sheet2SO** | Google Sheet → ScriptableObject 자동화 | [LINK](https://github.com/doppleddiggong/Sheet2SO) |
 
 
 ---
