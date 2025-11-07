@@ -1,4 +1,4 @@
-# Game Client Programmer
+# Game Client Engineer · Systems & Automation
 
 시스템 빌더형 게임 클라이언트 프로그래머입니다.  
 언리얼·유니티 기반 개발부터 AI·DevOps·툴링·데이터 파이프라인까지,  
@@ -16,11 +16,12 @@
 ---
 
 ## 대표 작업
-| 프로젝트 | 설명 | 링크 |
-|---------|-------|-------|
-| **AI·언리얼 음성 인터랙션** | STT→GPT→TTS 실시간 파이프라인 | https://github.com/doppleddiggong/YiSan |
-| **CoffeeToolbar** | UE 에디터 생산성 툴링 | https://github.com/doppleddiggong/CoffeeToolbar |
-| **Sheet2SO** | Google Sheet → ScriptableObject 자동화 | https://github.com/doppleddiggong/Sheet2SO |
+| 미리보기 | 프로젝트 | 설명 | 링크 |
+|----------|-----------|-------|-------|
+| <img src="https://raw.githubusercontent.com/doppleddiggong/doppleddiggong/main/Preview/preview_yisan.png" height="300"/> | **AI·언리얼 음성 인터랙션** | STT → GPT → TTS 실시간 파이프라인 | [LINK](https://github.com/doppleddiggong/YiSan) |
+| <img src="https://raw.githubusercontent.com/doppleddiggong/doppleddiggong/main/Preview/preview_coffeetoolbar.png" height="300"/> | **CoffeeToolbar** | UE 에디터 생산성 툴링 | [LINK](https://github.com/doppleddiggong/CoffeeToolbar) |
+| <img src="https://raw.githubusercontent.com/doppleddiggong/doppleddiggong/main/Preview/preview_sheet2so.png" height="300"/> | **Sheet2SO** | Google Sheet → ScriptableObject 자동화 | [LINK](https://github.com/doppleddiggong/Sheet2SO) |
+
 
 ---
 
