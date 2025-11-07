@@ -85,5 +85,5 @@ Whisper · Fish-Speech · GPT 기반 자동화 시스템
 
 ## 연락
 
-- Email:  
+- Email: ju100.bae@gmail.com  
 - GitHub: https://github.com/doppleddiggong
