@@ -16,14 +16,12 @@
 ---
 
 ## 대표 작업
-- **AI·언리얼 음성 인터랙션 시스템** – STT→GPT→TTS 실시간 처리  
-  https://github.com/doppleddiggong/YiSan
+| 프로젝트 | 설명 | 링크 |
+|---------|-------|-------|
+| **AI·언리얼 음성 인터랙션** | STT→GPT→TTS 실시간 파이프라인 | https://github.com/doppleddiggong/YiSan |
+| **CoffeeToolbar** | UE 에디터 생산성 툴링 | https://github.com/doppleddiggong/CoffeeToolbar |
+| **Sheet2SO** | Google Sheet → ScriptableObject 자동화 | https://github.com/doppleddiggong/Sheet2SO |
 
-- **CoffeeToolbar** – UE 에디터 생산성 툴  
-  https://github.com/doppleddiggong/CoffeeToolbar
-
-- **Sheet2SO** – Google Sheet 기반 데이터 자동화  
-  https://github.com/doppleddiggong/Sheet2SO
 ---
 
 ## 기술 스택
