@@ -1,4 +1,4 @@
-# Game Client Engineer · Systems & Automation
+## About Me
 
 시스템 빌더형 게임 클라이언트 프로그래머입니다.  
 언리얼·유니티 기반 개발부터 AI·DevOps·툴링·데이터 파이프라인까지,  
@@ -15,7 +15,7 @@
 
 ---
 
-## 대표 작업
+## Research & Development
 | 미리보기 | 프로젝트 | 설명 | 링크 |
 |----------|-----------|-------|-------|
 | <img src="https://raw.githubusercontent.com/doppleddiggong/doppleddiggong/main/Preview/preview_yisan.png" height="128"/> | **AI·언리얼 음성 인터랙션** | STT → GPT → TTS 실시간 파이프라인 | [LINK](https://github.com/doppleddiggong/YiSan) |
