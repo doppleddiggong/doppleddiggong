@@ -36,8 +36,6 @@
 ---
 
 ### Research & Development  
-
-### Research & Development  
 | Preview & Title | Description | Link |
 |-----------------|-------------|------|
 | <div align="center"><a href="https://github.com/doppleddiggong/YiSan"><img src="https://raw.githubusercontent.com/doppleddiggong/doppleddiggong/main/Preview/preview_yisan.png" height="140"/></a><br><b>AI·언리얼 음성 인터랙션</b></div> | STT → GPT → TTS 기반 **실시간 음성 인터랙션 시스템**.<br>UE5 네트워크 환경에서 안정적으로 동작하도록 **요청·응답 파이프라인을 설계**했습니다. | <a href="https://github.com/doppleddiggong/YiSan">Repo</a> |
