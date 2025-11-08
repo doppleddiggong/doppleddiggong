@@ -36,11 +36,13 @@
 ---
 
 ### Research & Development  
+
+### Research & Development  
 | Preview & Title | Description | Link |
 |-----------------|-------------|------|
-| <div align="center"><img src="https://raw.githubusercontent.com/doppleddiggong/doppleddiggong/main/Preview/preview_yisan.png" height="140"/><br><b>AI·언리얼 음성 인터랙션</b></div> | STT → GPT → TTS 기반 **실시간 음성 인터랙션 시스템**.<br>UE5 네트워크 환경에서 안정적으로 동작하도록 **요청·응답 파이프라인을 설계**했습니다. | [Repo](https://github.com/doppleddiggong/YiSan) |
-| <div align="center"><img src="https://raw.githubusercontent.com/doppleddiggong/doppleddiggong/main/Preview/preview_coffeetoolbar.png" height="140"/><br><b>CoffeeToolbar</b></div> | 반복 작업·레벨 관리·명령 실행을 자동화하는 **프로덕션 중심 Editor 워크플로**.<br>개발 속도와 정확성을 높이는 **실사용 자동화 도구**입니다. | [Repo](...) |
-| <div align="center"><img src="https://raw.githubusercontent.com/doppleddiggong/doppleddiggong/main/Preview/preview_sheet2so.png" height="140"/><br><b>Sheet2SO</b></div> | Google Sheet → ScriptableObject 자동 변환 **데이터 파이프라인**.<br>기획/아트 변경 사항을 즉시 SO로 반영해 **협업 워크플로 전체를 자동화**했습니다. | [Repo](...) |
+| <div align="center"><a href="https://github.com/doppleddiggong/YiSan"><img src="https://raw.githubusercontent.com/doppleddiggong/doppleddiggong/main/Preview/preview_yisan.png" height="140"/></a><br><b>AI·언리얼 음성 인터랙션</b></div> | STT → GPT → TTS 기반 **실시간 음성 인터랙션 시스템**.<br>UE5 네트워크 환경에서 안정적으로 동작하도록 **요청·응답 파이프라인을 설계**했습니다. | <a href="https://github.com/doppleddiggong/YiSan">Repo</a> |
+| <div align="center"><a href="https://github.com/doppleddiggong/CoffeeToolbar"><img src="https://raw.githubusercontent.com/doppleddiggong/doppleddiggong/main/Preview/preview_coffeetoolbar.png" height="140"/></a><br><b>CoffeeToolbar</b></div> | 반복 작업·레벨 관리·명령 실행을 자동화하는 **프로덕션 중심 Editor 워크플로**.<br>개발 속도와 정확성을 높이는 **실사용 자동화 도구**입니다. | <a href="https://github.com/doppleddiggong/CoffeeToolbar">Repo</a> |
+| <div align="center"><a href="https://github.com/doppleddiggong/Sheet2SO"><img src="https://raw.githubusercontent.com/doppleddiggong/doppleddiggong/main/Preview/preview_sheet2so.png" height="140"/></a><br><b>Sheet2SO</b></div> | Google Sheet → ScriptableObject 자동 변환 **데이터 파이프라인**.<br>기획/아트 변경 사항을 즉시 SO로 반영해 **협업 워크플로 전체를 자동화**했습니다. | <a href="https://github.com/doppleddiggong/Sheet2SO">Repo</a> |
 
 ---
 
