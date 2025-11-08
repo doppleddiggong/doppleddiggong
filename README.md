@@ -22,10 +22,8 @@
 
 ### About Me
 
-> 프로젝트 초기 단계에서 개발 구조와 실행 환경을 설계하는 엔지니어입니다.
-
-UE·Unity·AI·툴링·DevOps를 결합해  
-팀이 안정적으로 개발·운영할 수 있는 시스템과 파이프라인을 구축합니다.
+- 프로젝트 초기 단계에서 개발 구조와 실행 환경을 설계하는 엔지니어입니다.  
+- UE·Unity·AI·툴링·DevOps를 결합해 팀이 안정적으로 개발·운영할 수 있는 시스템과 파이프라인을 구축합니다.
 
 ---
 
@@ -37,7 +35,6 @@ UE·Unity·AI·툴링·DevOps를 결합해
 - **Stability Engineering** — 로딩·계측·디버깅 기반의 지속 가능한 개발 환경 설계
 ---
 
-
 ### Research & Development  
 | Preview & Title | Description | Link |
 |-----------------|-------------|------|
@@ -45,11 +42,6 @@ UE·Unity·AI·툴링·DevOps를 결합해
 | <div align="center"><img src="https://raw.githubusercontent.com/doppleddiggong/doppleddiggong/main/Preview/preview_coffeetoolbar.png" height="140"/><br><b>CoffeeToolbar</b></div> | 반복 작업·레벨 관리·명령 실행을 자동화하는 **프로덕션 중심 Editor 워크플로**.<br>개발 속도와 정확성을 높이는 **실사용 자동화 도구**입니다. | [Repo](...) |
 | <div align="center"><img src="https://raw.githubusercontent.com/doppleddiggong/doppleddiggong/main/Preview/preview_sheet2so.png" height="140"/><br><b>Sheet2SO</b></div> | Google Sheet → ScriptableObject 자동 변환 **데이터 파이프라인**.<br>기획/아트 변경 사항을 즉시 SO로 반영해 **협업 워크플로 전체를 자동화**했습니다. | [Repo](...) |
 
-
----
-### Tech Stack
-<p> <img src="https://img.shields.io/badge/C++17-00599C?logo=cplusplus&logoColor=white&style=flat"/> <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=flat"/> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat"/> <img src="https://img.shields.io/badge/Unreal-000?logo=unrealengine&logoColor=white&style=flat"/> <img src="https://img.shields.io/badge/Unity-FFF?logo=unity&logoColor=000&style=flat"/> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat"/> </p>
-
 ---
 
-Contact: ju100.bae@gmail.com
+Contact: ju100.bae@gmail.com 
