@@ -22,8 +22,8 @@
 
 ### About Me
 
+> 프로젝트 초기 단계에서 개발 구조와 실행 환경을 설계하는 엔지니어입니다.
 
-프로젝트 초기 단계에서 개발 구조와 실행 환경을 설계하는 엔지니어입니다.  
 UE·Unity·AI·툴링·DevOps를 결합해  
 팀이 안정적으로 개발·운영할 수 있는 시스템과 파이프라인을 구축합니다.
 
@@ -36,6 +36,7 @@ UE·Unity·AI·툴링·DevOps를 결합해
 - **AI Integration** — Whisper·GPT·TTS 기반 실시간 음성 시스템 구현  
 - **Stability Engineering** — 로딩·계측·디버깅 기반의 지속 가능한 개발 환경 설계
 ---
+
 
 ### Research & Development  
 | Preview & Title | Description | Link |
@@ -51,5 +52,4 @@ UE·Unity·AI·툴링·DevOps를 결합해
 
 ---
 
-Contact: ju100.bae@gmail.com  
-GitHub: https://github.com/doppleddiggong
+Contact: ju100.bae@gmail.com
