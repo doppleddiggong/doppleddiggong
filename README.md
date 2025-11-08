@@ -23,25 +23,27 @@
 ### About Me
 
 
-- 게임 클라이언트 아키텍처와 개발 환경을 설계하는 엔지니어입니다.    
-- UE·Unity·AI·DevOps·툴링 기반의 구조 설계를 통해  
-  프로젝트의 안정성·지속성·완주 가능성을 보장합니다.
+프로젝트 초기 단계에서 개발 구조와 실행 환경을 설계하는 엔지니어입니다.  
+UE·Unity·AI·툴링·DevOps를 결합해  
+팀이 안정적으로 개발·운영할 수 있는 시스템과 파이프라인을 구축합니다.
+
 ---
 
 ### Core Competencies  
-- **Architecture (UE5.6)** — 네트워크·스트리밍·AI 중심 구조 설계  
-- **Cross-Engine (Unity)** — 상용 개발·라이브 운영 기반 최적화  
-- **Tooling & Automation** — 데이터·에디터 워크플로 자동화  
-- **AI Integration** — Whisper·GPT·TTS 실시간 음성 시스템  
-- **Stability** — 로딩·계측·디버깅 기반 성능·안정화
+- **Architecture (UE5.6)** — 네트워크·스트리밍·AI 중심 클라이언트 구조 설계  
+- **Cross-Engine (Unity)** — 상용 개발 및 라이브 운영 기반 구조 최적화  
+- **Tooling & Automation** — 데이터·에디터 워크플로 자동화 및 프로덕션 파이프라인 구축  
+- **AI Integration** — Whisper·GPT·TTS 기반 실시간 음성 시스템 구현  
+- **Stability Engineering** — 로딩·계측·디버깅 기반의 지속 가능한 개발 환경 설계
 ---
 
-### Research & Development
-| Preview & Title | Description | Repository |
+### Research & Development  
+| Preview & Title | Description | Link |
 |-----------------|-------------|------|
-| <div align="center"><img src="https://raw.githubusercontent.com/doppleddiggong/doppleddiggong/main/Preview/preview_yisan.png" height="140"/><br><b>AI·언리얼 음성 인터랙션</b></div> | STT → GPT → TTS 기반 **실시간 음성 인터랙션 시스템**.<br>UE5 네트워크 환경에서 안정적으로 동작하도록 **요청·응답 파이프라인 구조 설계**. | [Link](https://github.com/doppleddiggong/YiSan) |
-| <div align="center"><img src="https://raw.githubusercontent.com/doppleddiggong/doppleddiggong/main/Preview/preview_coffeetoolbar.png" height="140"/><br><b>CoffeeToolbar</b></div> | UE 에디터 내 반복 작업·레벨 관리·명령 실행을 자동화하는 **생산성 워크플로 툴링**.<br>Editor 확장 기반 **실사용 중심 기능 제공**. | [Link](https://github.com/doppleddiggong/CoffeeToolbar) |
-| <div align="center"><img src="https://raw.githubusercontent.com/doppleddiggong/doppleddiggong/main/Preview/preview_sheet2so.png" height="140"/><br><b>Sheet2SO</b></div> | Google Sheet → ScriptableObject 자동 변환 **데이터 파이프라인**.<br>기획/아트 변경 사항을 즉시 SO로 반영하여 **협업 워크플로 자동화**. | [Link](https://github.com/doppleddiggong/Sheet2SO) |
+| <div align="center"><img src="https://raw.githubusercontent.com/doppleddiggong/doppleddiggong/main/Preview/preview_yisan.png" height="140"/><br><b>AI·언리얼 음성 인터랙션</b></div> | STT → GPT → TTS 기반 **실시간 음성 인터랙션 시스템**.<br>UE5 네트워크 환경에서 안정적으로 동작하도록 **요청·응답 파이프라인을 설계**했습니다. | [Repo](https://github.com/doppleddiggong/YiSan) |
+| <div align="center"><img src="https://raw.githubusercontent.com/doppleddiggong/doppleddiggong/main/Preview/preview_coffeetoolbar.png" height="140"/><br><b>CoffeeToolbar</b></div> | 반복 작업·레벨 관리·명령 실행을 자동화하는 **프로덕션 중심 Editor 워크플로**.<br>개발 속도와 정확성을 높이는 **실사용 자동화 도구**입니다. | [Repo](...) |
+| <div align="center"><img src="https://raw.githubusercontent.com/doppleddiggong/doppleddiggong/main/Preview/preview_sheet2so.png" height="140"/><br><b>Sheet2SO</b></div> | Google Sheet → ScriptableObject 자동 변환 **데이터 파이프라인**.<br>기획/아트 변경 사항을 즉시 SO로 반영해 **협업 워크플로 전체를 자동화**했습니다. | [Repo](...) |
+
 
 ---
 ### Tech Stack
